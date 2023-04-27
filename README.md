@@ -55,7 +55,7 @@
 
 ## Grupo Responsável
 - [Isaac Vicente](https://github.com/isaacvicente)
-- Franscisco Pereira
+- [Franscisco Pereira](https://github.com/Francisco-xiq)
 - Junior Lacerda
 - [Júlio Alcantara](https://github.com/alcantarajulio)
 - [Winicius Allan](https://github.com/winiciusallan)
