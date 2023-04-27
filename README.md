@@ -44,7 +44,7 @@
 
 ### Processador
 - Intel I7-2600, 3.80GHz 
-- 4 Clocks | 8 Threads 
+- 4 Cores | 8 Threads 
 - 3.6 GHz podendo chegar até 3.8 GHz.
 ### Memória RAM
 - 2x4GB | DDR3 | 860MHz.
