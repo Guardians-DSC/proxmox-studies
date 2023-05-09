@@ -5,6 +5,7 @@
 - [X] - Conseguir uma máquina que sirva como servidor (mínimo 2GiB de RAM);
 - [X] - Instalar o Proxmox nessa máquina;
 - [X] - Lançar uma máquina virtual nesse servidor;
+- [X] - Configurar acesso remoto via ssh e tunelling por servidor do LCC;
 - [ ] - Testar Uso de CPU e Energia em situações de estresse do hardware;
 - [ ] - Subir Containers ou outras formas de virtualização (como Docker).
 ---
